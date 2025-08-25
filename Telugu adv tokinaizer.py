@@ -33,8 +33,8 @@ python tokenizer.py tokenize --input data.txt --exceptions ex.json --no-fallback
 # Also emit token frequency stats
 python tokenizer.py tokenize --input data.txt --stats stats.tsv
 
-Author: GPT-5
 """
+
 
 import sys
 import os
